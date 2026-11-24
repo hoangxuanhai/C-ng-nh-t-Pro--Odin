@@ -1,0 +1,6 @@
+{
+  "name": "Công Nhật Pro",
+  "description": "Ứng dụng chấm công hằng ngày và thanh toán lương hằng tuần song ngữ Việt - Hàn, hỗ trợ nhận diện ảnh bảng chấm công AI và xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
